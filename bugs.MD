@@ -11,7 +11,7 @@
   end
 ```
 * ```ruby
-     ArgumentError:
-       wrong number of arguments (1 for 0)
-       ```
+    ArgumentError:
+      wrong number of arguments (1 for 0)
+  ```
 found out that `@event.destroy` takes 0 arguments
