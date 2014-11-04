@@ -1,6 +1,6 @@
-# Bugs found
+# Bug log
 
-###in destroy method
+###in events#destroy
 
 #1  
 ```ruby
